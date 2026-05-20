@@ -1,0 +1,17 @@
+# Segredos
+.env
+.env.local
+
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
